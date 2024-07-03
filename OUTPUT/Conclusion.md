@@ -19,7 +19,7 @@ This project successfully demonstrated the application of four different machine
 * Precision: 0.9744
 
 
-### COnclusion and Future Work
+### Conclusion and Future Work
 All models demonstrated strong performance in classifying breast cancer tumors, with Logistic Regression and SVM standing out due to their high accuracy and precision. This indicates that both linear and non-linear approaches can be highly effective for this dataset.
 
 **Future Work**
